@@ -1,12 +1,4 @@
-# ✅ Étape suivante
 
----
-
-## **Action #6 : Coller le contenu du README**
-
-**Dans VS Code, colle ce texte :**
-
-```markdown
 # 💎 FinTech Dashboard Pro
 
 Dashboard financier interactif avec visualisations temps réel — Prototype premium par [Intello](https://intello.sn).
@@ -56,6 +48,18 @@ npx http-server -p 8000
 Puis ouvrir `http://localhost:8000`
 
 ---
+
+## 📸 Screenshots
+
+### Dashboard principal
+![Main Dashboard](screenshots/dashboard-overview.png)
+
+### KPIs & Sparklines
+![KPIs](screenshots/kpis-sparklines.png)
+
+### Table clients
+![Table](screenshots/table-clients.png)
+
 
 ## 📦 Structure
 
