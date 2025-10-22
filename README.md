@@ -1,8 +1,3 @@
-# 💎 FinTech Dashboard Pro — README.md FINAL
-
-**Voici la version corrigée et complète (template RealEstate App appliqué) :**
-
-
 # 💎 FinTech Dashboard Pro — Prototype SaaS Analytics
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
