@@ -2,7 +2,7 @@
 
 **Voici la version corrigée et complète (template RealEstate App appliqué) :**
 
-```markdown
+
 # 💎 FinTech Dashboard Pro — Prototype SaaS Analytics
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -97,7 +97,7 @@ FinTech Dashboard Pro est un prototype de tableau de bord financier SaaS présen
 - Scripts `defer` (non-bloquants)
 
 ---
-```
+
 ## 🖼️ Screenshots
 
 ### Dashboard Principal (KPIs + Chart + Filtres)
