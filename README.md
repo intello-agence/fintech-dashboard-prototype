@@ -97,7 +97,7 @@ FinTech Dashboard Pro est un prototype de tableau de bord financier SaaS présen
 - Scripts `defer` (non-bloquants)
 
 ---
-
+```
 ## 🖼️ Screenshots
 
 ### Dashboard Principal (KPIs + Chart + Filtres)
@@ -357,6 +357,3 @@ MIT License — Libre d'utilisation pour démonstration/apprentissage.
 ---
 
 **✨ Conçu par Intello | © 2025**
-```
-
----
